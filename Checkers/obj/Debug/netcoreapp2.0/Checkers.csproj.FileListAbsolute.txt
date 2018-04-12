@@ -1,0 +1,11 @@
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\bin\Debug\netcoreapp2.0\Checkers.deps.json
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\bin\Debug\netcoreapp2.0\Checkers.runtimeconfig.json
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\bin\Debug\netcoreapp2.0\Checkers.runtimeconfig.dev.json
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\bin\Debug\netcoreapp2.0\Checkers.dll
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\bin\Debug\netcoreapp2.0\Checkers.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\obj\Debug\netcoreapp2.0\Checkers.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\obj\Debug\netcoreapp2.0\Checkers.csproj.CoreCompileInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\obj\Debug\netcoreapp2.0\Checkers.AssemblyInfoInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\obj\Debug\netcoreapp2.0\Checkers.AssemblyInfo.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\obj\Debug\netcoreapp2.0\Checkers.dll
+\\ict.ru.ac.za\DFS\UGHomes\g16r4659\Desktop\Checkers\Checkers\obj\Debug\netcoreapp2.0\Checkers.pdb
