@@ -6,5 +6,6 @@ namespace Checkers
 {
     class Piece
     {
+        //all methods must be virtual
     }
 }

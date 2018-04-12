@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Checkers
 {
-    class King
+    class King: Piece
     {
     }
 }
