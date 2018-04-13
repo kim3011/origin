@@ -5831,12 +5831,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "J:\\Desktop\\Checkers\\Checkers.Test\\Checkers.Test.csproj",
+      "projectUniqueName": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16r4659\\Desktop\\Checkers\\Checkers.Test\\Checkers.Test.csproj",
       "projectName": "Checkers.Test",
-      "projectPath": "J:\\Desktop\\Checkers\\Checkers.Test\\Checkers.Test.csproj",
+      "projectPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16r4659\\Desktop\\Checkers\\Checkers.Test\\Checkers.Test.csproj",
       "packagesPath": "C:\\Users\\g16r4659\\.nuget\\packages\\",
-      "outputPath": "J:\\Desktop\\Checkers\\Checkers.Test\\obj\\",
+      "outputPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16r4659\\Desktop\\Checkers\\Checkers.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -5857,8 +5860,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "J:\\Desktop\\Checkers\\Checkers\\Checkers.csproj": {
-              "projectPath": "J:\\Desktop\\Checkers\\Checkers\\Checkers.csproj"
+            "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16r4659\\Desktop\\Checkers\\Checkers\\Checkers.csproj": {
+              "projectPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16r4659\\Desktop\\Checkers\\Checkers\\Checkers.csproj"
             }
           }
         }
@@ -5877,7 +5880,6 @@
             "version": "[15.7.0, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
